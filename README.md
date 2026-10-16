@@ -35,7 +35,7 @@
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **파이썬 미니 앱** | 고양이가 달에서 지구로 귀환하기 위해 탐험하는 게임 | Python |
+| [**문캣 (MoonCat)**](https://github.com/bluerose219/MoonCat) | 달에 불시착한 고양이가 로켓을 고쳐 지구로 돌아가는 턴제 미니 게임 | Python, tkinter |
 | [**미디어파이프 웹캠 실습**](https://github.com/bluerose219/mediapipe-webcam-practice) | MediaPipe Face Landmarker로 웹캠 얼굴 랜드마크를 실시간 인식 | Python, MediaPipe |
 | [**포즈 스네이크**](https://github.com/bluerose219/snake-game) | 웹캠 앞에서 몸 포즈로 뱀을 조종하는 스네이크 게임 | HTML, TensorFlow.js, Teachable Machine |
 | [**별똥별 피하기**](https://github.com/bluerose219/meteor-dodge) | 쏟아지는 별똥별을 피하는 웹 게임 | HTML5 Canvas |
