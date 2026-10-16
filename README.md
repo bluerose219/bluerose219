@@ -33,13 +33,12 @@
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **Mini App for Python** | 고양이가 달에서 지구로 귀환하기 위해 탐험하는 게임 | Python |
-| [**mediapipe-webcam-practice**](https://github.com/bluerose219/mediapipe-webcam-practice) | MediaPipe Face Landmarker로 웹캠 얼굴 랜드마크를 실시간 인식 | Python, MediaPipe |
-| [**snake-game**](https://github.com/bluerose219/snake-game) | 웹캠 앞에서 몸 포즈로 뱀을 조종하는 스네이크 게임 | HTML, TensorFlow.js, Teachable Machine |
-| [**meteor-dodge**](https://github.com/bluerose219/meteor-dodge) | 쏟아지는 별똥별을 피하는 웹 게임 | HTML5 Canvas |
-| [**arduino-shop**](https://github.com/bluerose219/arduino-shop) | 아두이노 부품 쇼핑몰 | Next.js, Supabase, 토스페이먼츠 |
-| [**pc-build-quote**](https://github.com/bluerose219/pc-build-quote) | 개발·로컬 AI용 PC 견적 비교 (다나와 최저가) | HTML |
-| [**wanted-embedded-hw-jobs**](https://github.com/bluerose219/wanted-embedded-hw-jobs) | 원티드 임베디드·하드웨어 채용공고 234건 분석과 학습 로드맵 | HTML |
+| **파이썬 미니 앱** | 고양이가 달에서 지구로 귀환하기 위해 탐험하는 게임 | Python |
+| [**미디어파이프 웹캠 실습**](https://github.com/bluerose219/mediapipe-webcam-practice) | MediaPipe Face Landmarker로 웹캠 얼굴 랜드마크를 실시간 인식 | Python, MediaPipe |
+| [**포즈 스네이크**](https://github.com/bluerose219/snake-game) | 웹캠 앞에서 몸 포즈로 뱀을 조종하는 스네이크 게임 | HTML, TensorFlow.js, Teachable Machine |
+| [**별똥별 피하기**](https://github.com/bluerose219/meteor-dodge) | 쏟아지는 별똥별을 피하는 웹 게임 | HTML5 Canvas |
+| [**아두이노 쇼핑몰**](https://github.com/bluerose219/arduino-shop) | 아두이노 부품 쇼핑몰 | Next.js, Supabase, 토스페이먼츠 |
+| [**PC 견적 비교**](https://github.com/bluerose219/pc-build-quote) | 개발·로컬 AI용 PC 견적 비교 (다나와 최저가) | HTML |
 
 <br/>
 
